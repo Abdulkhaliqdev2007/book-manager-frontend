@@ -120,4 +120,5 @@ with your backend API URL before deployment.
 * Add user profile page
 * Improve UI animations
 ## Author
-Abdul Khaliq
+ Hafiz Abdul Khaliq
+ GitHub: Abdulkhaliqdev2007
