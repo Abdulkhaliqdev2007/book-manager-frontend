@@ -58,7 +58,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone <your-frontend-repository-url>
+git clone https://github.com/Abdulkhaliqdev2007/book-manager-frontend.git
 ```
 Navigate to the project folder:
 
