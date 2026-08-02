@@ -98,7 +98,7 @@ http://localhost:5173
 Backend API repository:
 
 ```
-<your-backend-repository-url>
+https://github.com/Abdulkhaliqdev2007/book-manager-backend.git
 ```
 
 ## Deployment
